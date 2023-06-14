@@ -5,7 +5,7 @@ This analysis is based on a public dataset published on Kaggle that was provided
 - The Top 10 best selling products
 - Top 10 selling states in Brazil 
 - Distribution of best selling products in the Top 5 Brazilian states
-# 
+
 # I then analyzed the top 5 sellers for:
 - What products they sold
 - Customers' preferred payment types
